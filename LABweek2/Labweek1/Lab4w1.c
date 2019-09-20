@@ -13,7 +13,7 @@ int Lab4w1(int argc, const char * argv[])  {
     
     double l;
     double w;
-    printf("length \n");
+    printf(" what length \n");
     scanf("%lf",&l);
     printf("width \n");
     scanf("%lf",&w);

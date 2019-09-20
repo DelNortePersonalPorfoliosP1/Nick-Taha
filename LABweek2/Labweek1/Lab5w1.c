@@ -28,11 +28,11 @@ int Lab5w1(int argc, const char * argv[])  {
     }
     
     else if (c > 0) {
-        printf("it is %lf above freezing point", n);
+        printf("it is %lf above freezing point\n", n);
     }
     else{
         
-        printf("It is at freezing temperature");
+        printf("It is at freezing temperature\n");
         
     }
     return 0;

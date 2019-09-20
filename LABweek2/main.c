@@ -15,7 +15,7 @@
 #include "Lab1W2.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
+    
     Lab1w1();
     Lab2w1();
     Lab3w1();
